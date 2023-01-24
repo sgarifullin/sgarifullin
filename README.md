@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sergey Garifullin.
-- 👀 I’m interested in Google Sheet, Power BI, SQL.
+- 👀 I’m interested in Google Sheet, Power BI, SQL, Phyton in progress...
 - 🌱 I’m currently learning on Data Analysis courses. 
 - 💞️ I’m looking to collaborate on some project just for portfolio
 - 📫 How to reach me? via e-mail s.garifullin@mail.ru or telegram https://t.me/sgarifullin
